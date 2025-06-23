@@ -34,6 +34,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.PaleGreen;
             ClientSize = new Size(1282, 663);
             Name = "menu";
             Text = "menu";
