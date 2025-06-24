@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ViBio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e6796726a193bc535b8f4ce497ca0539cb5e9a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ViBio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ViBio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
